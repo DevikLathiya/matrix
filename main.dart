@@ -1,14 +1,4 @@
-import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:get/get.dart';
-import 'package:hosting_power/core/utils/ext_on_wid.dart';
-import 'package:hosting_power/view/loginFlow/screens/splashScreenUi.dart';
-import 'package:permission_handler/permission_handler.dart';
-import 'Viewmodels/notification_services.dart';
-import 'core/constant/app_theme.dart';
-import 'core/constant/root_binding.dart';
 
 
 
